@@ -5,12 +5,12 @@ Este repositório contém uma API simples desenvolvida com Spring Boot para calc
 Nota: Este projeto ainda está em fase de desenvolvimento, e algumas funcionalidades podem não estar totalmente implementadas. Melhorias futuras estão planejadas para expandir a funcionalidade e otimizar a API.
 
 ## 📚 Sumário
-- [Visão Geral do Projeto](#visão-geral-do-projeto)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Tecnologias](#tecnologias)
-- [Melhorias Planejadas](#melhorias-planejadas)
-- [Contribuição](#contribuição)
+- [Visão Geral do Projeto](#-visão-geral-do-projeto)
+- [Instalação](#-instalação)
+- [Uso](#-uso)
+- [Tecnologias](#%EF%B8%8F-tecnologias)
+- [Melhorias Planejadas](#-melhorias-planejadas)
+- [Contribuição](#-contribuição)
 
 
 ### 🌍 Visão Geral do Projeto
