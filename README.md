@@ -11,7 +11,7 @@ Nota: Este projeto ainda está em fase de desenvolvimento, e algumas funcionalid
 - [Tecnologias](#tecnologias)
 - [Melhorias Planejadas](#melhorias-planejadas)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
+
 
 ### 🌍 Visão Geral do Projeto
 Esta API oferece um endpoint para calcular a distância entre dois pontos geográficos com base nas suas latitudes e longitudes. Utiliza a fórmula de Haversine, que considera a curvatura da Terra, fornecendo uma estimativa mais precisa para distâncias longas.
